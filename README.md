@@ -1,6 +1,6 @@
 # Machine-learning-refinement-acquired-by-LC-TEM
 
-### Refineing images
+### Refining images
 Check ipynb/main.ipynb.
 
 ### Training 

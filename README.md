@@ -12,5 +12,4 @@ The text file named list_dataset.txt contains the information on the corresponde
 
 ### Before and After
 
-Example is shown as:
 ![ipynb/output.png](ipynb/output.png)

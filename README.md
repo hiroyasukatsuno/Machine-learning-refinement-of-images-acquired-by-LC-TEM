@@ -11,6 +11,6 @@ The text file named list/list_dataset.txt contains the information on the corres
 
 
 
-### Before and After
+### Examples of before and after images
 
 ![ipynb/output.png](ipynb/output.png)
